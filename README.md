@@ -5,11 +5,11 @@
 
 > Imagem principal
 
-<img src="public/previewpreviewImage2.png" alt="Exemplo imagem">
+<img src="public/preview/previewImage2.png" alt="Exemplo imagem">
 
 > Imagem cadastro
 
-<img src="public/previewpreviewImage3.png" alt="Exemplo imagem">
+<img src="public/preview/previewImage3.png" alt="Exemplo imagem">
 
 > Imagem pos-cadastro
 
